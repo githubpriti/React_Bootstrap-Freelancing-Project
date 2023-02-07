@@ -20,7 +20,7 @@ What I learned in this:
 
 ![lco](./Web%20capture_7-2-2023_17243_localhost.jpeg)
 
-## [Live Project Link](https://stellular-cendol-95a188.netlify.app)
+## [Live Project Link](http://localhost:3000/)
 
 For any query you can reach out at jajuvh@gmail.com I am happy to help anytime.
 
